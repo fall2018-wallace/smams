@@ -4,7 +4,8 @@
         "adjadhav",
         "srbinani",
         "mrdedhia",
-        "mgokhale"
+        "mgokhale",
+        "manasi30"
     ],
     "created_at": "2018-10-11 16:40:01",
     "edges": [
@@ -40,6 +41,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-10-11 16:42:38",
+    "updated_at": "2018-10-11 16:46:21",
     "url": "https://github.com/fall2018-wallace/smams"
 }

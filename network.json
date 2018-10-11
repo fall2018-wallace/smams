@@ -1,6 +1,10 @@
 {
     "collaborators": [
-        "sukulkar"
+        "sukulkar",
+        "adjadhav",
+        "srbinani",
+        "mrdedhia",
+        "mgokhale"
     ],
     "created_at": "2018-10-11 16:40:01",
     "edges": [
@@ -36,6 +40,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-10-11 16:40:01",
+    "updated_at": "2018-10-11 16:41:25",
     "url": "https://github.com/fall2018-wallace/smams"
 }

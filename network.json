@@ -28,26 +28,33 @@
             "name": "data.csv"
         },
         {
-            "assigned_to": "not assigned",
-            "desc": "Perform linear modeling on the data and identify the statistically significant variable. ",
-            "name": "linearmodeling.R",
-            "task_status": "proposed"
-        },
-        {
-            "desc": "Visualize the plots of the dependent variable with each independent variable",
-            "name": "plots.R"
-        },
-        {
-            "desc": "",
-            "name": "supportVectorMachine.R"
-        },
-        {
-            "assigned_to": "not assigned",
+            "assigned_to": "srbinani",
             "desc": "Cleaned the data by formatting the date, removing spaces from many columns, replacing commas with spaces on many column, standardizing the format etc.",
             "name": "cleaningdata.R",
+            "task_status": "completed"
+        },
+        {
+            "assigned_to": "manasi30",
+            "desc": "Visualize the plots of the dependent variable with each independent variable",
+            "name": "plots.R",
+            "task_status": "in progress"
+        },
+        {
+            "assigned_to": "sukulkar",
+            "desc": "",
+            "name": "supportVectorMachine.R",
             "task_status": "proposed"
+        },
+        {
+            "assigned_to": "mrdedhia",
+            "desc": "Perform linear modeling on the data and identify the statistically significant variable. ",
+            "name": "linearmodeling.R",
+            "task_status": "validating"
+        },
+        {
+            "name": "ProjectReport.txt"
         }
     ],
-    "updated_at": "2018-11-01 02:46:19",
+    "updated_at": "2018-11-01 02:50:12",
     "url": "https://github.com/fall2018-wallace/smams"
 }

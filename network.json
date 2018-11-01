@@ -29,8 +29,12 @@
         {
             "desc": "Visualize the plots of the dependent variable with each independent variable",
             "name": "plots.R"
+        },
+        {
+            "desc": "",
+            "name": "supportVectorMachine.R"
         }
     ],
-    "updated_at": "2018-11-01 02:15:56",
+    "updated_at": "2018-11-01 02:24:43",
     "url": "https://github.com/fall2018-wallace/smams"
 }

@@ -49,10 +49,16 @@
             "name": "Datapreprocessing.R"
         },
         {
-            "desc": "",
-            "name": "linearmodeling.R"
+            "assigned_to": "not assigned",
+            "desc": "Perform linear modeling on the data and identify the statistically significant variable. ",
+            "name": "linearmodeling.R",
+            "task_status": "proposed"
+        },
+        {
+            "desc": "Visualize the plots of the dependent variable with each independent variable",
+            "name": "plots.R"
         }
     ],
-    "updated_at": "2018-11-01 02:10:41",
+    "updated_at": "2018-11-01 02:15:00",
     "url": "https://github.com/fall2018-wallace/smams"
 }

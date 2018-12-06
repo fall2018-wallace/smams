@@ -55,10 +55,16 @@
             "task_status": "validating"
         },
         {
+            "assigned_to": "adjadhav",
             "desc": "Reporting",
-            "name": "Reporting.R"
+            "name": "Reporting.R",
+            "task_status": "validating"
+        },
+        {
+            "desc": "ARules",
+            "name": "apriori.R"
         }
     ],
-    "updated_at": "2018-12-06 03:16:14",
+    "updated_at": "2018-12-06 03:17:38",
     "url": "https://github.com/fall2018-wallace/smams"
 }

@@ -29,6 +29,17 @@
             ],
             "source": "cleaningdata.R",
             "target": "SatisfactionLessThan3.R"
+        },
+        {
+            "ports": [
+                {
+                    "input": "SurveyData",
+                    "output": "SurveyData",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "cleaningdata.R",
+            "target": "AirlineName.R"
         }
     ],
     "nodes": [
@@ -84,10 +95,12 @@
             "task_status": "in progress"
         },
         {
+            "assigned_to": "sukulkar",
             "desc": "",
-            "name": "AirlineName.R"
+            "name": "AirlineName.R",
+            "task_status": "in progress"
         }
     ],
-    "updated_at": "2018-12-06 17:04:51",
+    "updated_at": "2018-12-06 17:05:21",
     "url": "https://github.com/fall2018-wallace/smams"
 }

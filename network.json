@@ -99,8 +99,11 @@
             "desc": "",
             "name": "AirlineName.R",
             "task_status": "in progress"
+        },
+        {
+            "name": "Airline_Name_Percentage.png"
         }
     ],
-    "updated_at": "2018-12-06 17:05:21",
+    "updated_at": "2018-12-06 17:06:10",
     "url": "https://github.com/fall2018-wallace/smams"
 }

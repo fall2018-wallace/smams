@@ -85,8 +85,11 @@
         },
         {
             "name": "Airline_Name_Percentage.png"
+        },
+        {
+            "name": "AirlineName.png"
         }
     ],
-    "updated_at": "2018-12-06 17:06:56",
+    "updated_at": "2018-12-06 17:08:25",
     "url": "https://github.com/fall2018-wallace/smams"
 }

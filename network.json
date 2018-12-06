@@ -65,8 +65,12 @@
             "desc": "Cleaned the data by formatting the date, removing spaces from many columns, replacing commas with spaces on many column, standardizing the format etc.",
             "name": "cleaningdata.R",
             "task_status": "completed"
+        },
+        {
+            "desc": "",
+            "name": "SatisfactionLessThan3.R"
         }
     ],
-    "updated_at": "2018-12-06 17:00:04",
+    "updated_at": "2018-12-06 17:03:19",
     "url": "https://github.com/fall2018-wallace/smams"
 }

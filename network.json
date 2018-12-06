@@ -39,6 +39,16 @@
             ],
             "source": "SatisfactionLessThan3.R",
             "target": "AirlineName.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "ageFreq",
+                    "type": "png"
+                }
+            ],
+            "source": "SatisfactionLessThan3.R",
+            "target": "Age.png"
         }
     ],
     "nodes": [
@@ -103,6 +113,6 @@
             "name": "Age.png"
         }
     ],
-    "updated_at": "2018-12-06 17:09:01",
+    "updated_at": "2018-12-06 17:09:22",
     "url": "https://github.com/fall2018-wallace/smams"
 }

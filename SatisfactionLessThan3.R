@@ -6,6 +6,8 @@ res_Airline <- SurveyData %>% group_by(Airline_Name) %>% summarise(Freq=n(), per
 res_Airline$perc <- (res_Airline$percLessThan3/res_Airline$Freq)*100
 
 
-ggplot(res_Airline, aes(x=Airline_Name ,y = Freq, fill=perc))+geom_col()+theme(axis.text.x = element_text(angle = 90, hjust = 1))
+airlineNameFreq = ggplot(res_Airline, aes(x=Airline_Name ,y = Freq, fill=perc))+geom_col()+theme(axis.text.x = element_text(angle = 90, hjust = 1))
+airlineNameFreq
 
-ggplot(res, aes(x=Age ,y = Freq, fill=perc))+geom_col()+theme(axis.text.x = element_text(angle = 90, hjust = 1))
+ageFreq = ggplot(res, aes(x=Age ,y = Freq, fill=perc))+geom_col()+theme(axis.text.x = element_text(angle = 90, hjust = 1))
+ageFreq

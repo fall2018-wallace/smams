@@ -10,14 +10,9 @@
     "created_at": "2018-10-11 16:40:01",
     "edges": [
         {
-            "ports": [
-                {
-                    "input": "data.csv",
-                    "type": "csv"
-                }
-            ],
-            "source": "data.csv",
-            "target": "cleaningdata.R"
+            "ports": [],
+            "source": "satisfactionSurvey.csv",
+            "target": "plots.R"
         }
     ],
     "nodes": [
@@ -43,12 +38,6 @@
             "task_status": "completed"
         },
         {
-            "assigned_to": "srbinani",
-            "desc": "Cleaned the data by formatting the date, removing spaces from many columns, replacing commas with spaces on many column, standardizing the format etc.",
-            "name": "cleaningdata.R",
-            "task_status": "completed"
-        },
-        {
             "assigned_to": "sukulkar",
             "desc": "",
             "name": "supportVectorMachine.R",
@@ -61,10 +50,18 @@
             "task_status": "validating"
         },
         {
+            "assigned_to": "srbinani",
             "desc": "ARules",
-            "name": "apriori.R"
+            "name": "apriori.R",
+            "task_status": "completed"
+        },
+        {
+            "assigned_to": "adjadhav",
+            "desc": "Cleaned the data by formatting the date, removing spaces from many columns, replacing commas with spaces on many column, standardizing the format etc.",
+            "name": "cleaningdata.R",
+            "task_status": "completed"
         }
     ],
-    "updated_at": "2018-12-06 03:17:38",
+    "updated_at": "2018-12-06 16:57:37",
     "url": "https://github.com/fall2018-wallace/smams"
 }

@@ -29,17 +29,6 @@
             ],
             "source": "cleaningdata.R",
             "target": "SatisfactionLessThan3.R"
-        },
-        {
-            "ports": [
-                {
-                    "input": "SurveyData",
-                    "output": "SurveyData",
-                    "type": "r_obj"
-                }
-            ],
-            "source": "cleaningdata.R",
-            "target": "AirlineName.R"
         }
     ],
     "nodes": [
@@ -95,15 +84,9 @@
             "task_status": "in progress"
         },
         {
-            "assigned_to": "sukulkar",
-            "desc": "",
-            "name": "AirlineName.R",
-            "task_status": "in progress"
-        },
-        {
             "name": "Airline_Name_Percentage.png"
         }
     ],
-    "updated_at": "2018-12-06 17:06:10",
+    "updated_at": "2018-12-06 17:06:56",
     "url": "https://github.com/fall2018-wallace/smams"
 }

@@ -68,8 +68,12 @@
             "desc": "Visualize the plots of the dependent variable with each independent variable",
             "name": "plots.R",
             "task_status": "validating"
+        },
+        {
+            "desc": "",
+            "name": "ExlporingVariables.R"
         }
     ],
-    "updated_at": "2018-12-09 22:18:17",
+    "updated_at": "2018-12-09 22:18:30",
     "url": "https://github.com/fall2018-wallace/smams"
 }
